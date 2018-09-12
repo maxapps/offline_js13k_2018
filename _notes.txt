@@ -1,0 +1,15 @@
+Build Process
+-------------
+1.	In utils.js:
+			1a.	At line 11, ensure "DEBUG" is false.
+			1b.	At line 12, ensure VERSION is correct.
+2.	In Levels.js, ensure lines 653-660 of the .getLevel() method are commented out to eliminate embedding.
+3.	Build with "npm run build".
+
+
+Bugs
+----
+
+
+To Do
+-----
